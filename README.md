@@ -7,11 +7,21 @@ This system proposed a novel approach for classification of six different classe
 actinic keratosis, Basel cell carcinoma, cherry nevus, dermatofibroma, Melanocytic nevus and Melanoma by utilizing Cancer imagery. 
 
  ## Screenshots
- ![Start Game](screenshots/Step1.png)
+ ![Input an Image](screenshots/Step1.png)
+ 
+  ![Pre-processing (Contrast Stretching, Noise Filtering)](screenshots/Step2.png)
+  
+   ![Segmentation](screenshots/Step3.png)
+   
+    ![Feature Extraction Using Gabor Filter](screenshots/Step4.png)
+    
+     ![Training and testing framework using SVM](screenshots/Step5.png)
+     
+      ![Classified Image](screenshots/Step6.png)
 
-#Technologies Used
-*MATLAB
-*GLCM
-*SVM
-*Image Processing
+## Technologies Used
+* MATLAB
+* GLCM
+* SVM
+* Image Processing
 
