@@ -12,11 +12,8 @@ actinic keratosis, Basel cell carcinoma, cherry nevus, dermatofibroma, Melanocyt
   ![Pre-processing (Contrast Stretching, Noise Filtering)](screenshots/Step2.png)
   
    ![Segmentation](screenshots/Step3.png)
-   
     ![Feature Extraction Using Gabor Filter](screenshots/Step4.png)
-    
      ![Training and testing framework using SVM](screenshots/Step5.png)
-     
       ![Classified Image](screenshots/Step6.png)
 
 ## Technologies Used
