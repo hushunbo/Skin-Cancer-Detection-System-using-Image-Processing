@@ -21,4 +21,5 @@ actinic keratosis, Basel cell carcinoma, cherry nevus, dermatofibroma, Melanocyt
 * GLCM
 * SVM
 * Image Processing
+* Gabor Filtering
 
