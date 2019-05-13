@@ -7,17 +7,7 @@ This system proposed a novel approach for classification of six different classe
 actinic keratosis, Basel cell carcinoma, cherry nevus, dermatofibroma, Melanocytic nevus and Melanoma by utilizing Cancer imagery. 
 
  ## Screenshots
- ![](ScreenShots of Working Model/Step1.png)
-
-![](ScreenShots of Working Model/Step2.png)
-
-![](ScreenShots of Working Model/Step3.png)
-
-![](ScreenShots of Working Model/Step4.png)
-
-![](ScreenShots of Working Model/Step5.png)
-
-![](ScreenShots of Working Model/Step6.png)
+ ![xyz](ScreenShots of Working Model/Step1.png)
 
 #Technologies Used
 *MATLAB
