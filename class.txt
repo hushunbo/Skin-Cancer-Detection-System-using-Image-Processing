@@ -1,0 +1,7 @@
+1.actinic keratosis
+2.Basel cell carcinoma
+3.cherry nevus
+4.dermatofibroma
+5.Melanocytic nevus
+6.Melanoma
+7.squamous cell carcinoma
