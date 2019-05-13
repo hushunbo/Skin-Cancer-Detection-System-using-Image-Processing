@@ -19,4 +19,9 @@ actinic keratosis, Basel cell carcinoma, cherry nevus, dermatofibroma, Melanocyt
 
 ![](ScreenShots of Working Model/Step6.png)
 
+#Technologies Used
+*MATLAB
+*GLCM
+*SVM
+*Image Processing
 
